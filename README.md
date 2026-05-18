@@ -1,4 +1,4 @@
-# 🎮 Hitz-Zopa Euskeraz - Vue 3
+# 🎮 Hitz-Zopa Localstorage - Vue 3
 
 Sopa de letras en euskera con Vue 3 + Vite.
 
@@ -33,4 +33,3 @@ npm run build
 ```
 
 ¡Gozatu! 🎉
-# sopa-letras-localstorage
