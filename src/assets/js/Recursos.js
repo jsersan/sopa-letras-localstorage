@@ -1,0 +1,41 @@
+export const hitzak = [
+  "etxea", "mahaia", "aulkia", "leihoa", "atea", "gorputza", "burua", "begiak", 
+  "sudurra", "ahoa", "belarria", "eskua", "hanka", "bihotza", "zakurra", "katua",
+  "txoria", "arraina", "zaldira", "behia", "ardiak", "oiloa", "sagarra", "laranja",
+  "banana", "tomatea", "patata", "tipula", "babarrunak", "arroza", "ogia", "esnea",
+  "kafea", "tea", "ura", "ardoa", "garagardoa", "janaria", "gosaria", "bazkaria",
+  "afaria", "sukaldea", "ostatua", "jatetxea", "kalea", "plaza", "parkea", "mendira",
+  "itsasoa", "ibaia", "zuhaitza", "lorea", "belarra", "harea", "harria", "eguzkia",
+  "ilargia", "izarra", "hodeia", "euria", "elurra", "haizea", "tenperatura", "berotzea",
+  "hotzera", "negua", "udaberria", "uda", "udazkena", "astelehena", "asteartea", "asteazkena",
+  "osteguna", "ostirala", "larunbata", "igandea", "urtea", "hilabetea", "astea", "eguna",
+  "ordua", "minutua", "segundoa", "goiza", "arratsaldea", "gaua", "gaur", "atzo",
+  "bihar", "irakaslea", "ikaslea", "ikastola", "eskola", "unibertsitatea", "liburutegia", "liburua",
+  "koadernoa", "arkatzak", "boligrafo", "arbelak", "ordenagailua", "tableta",
+  "telefonoa", "telebista", "irratia", "musika", "abestia", "dantza", "antzerkia", "zinema",
+  "margotzen", "irakurtzen", "idazten", "jolasten", "korrika", "salto", "igeriketa", "futbola",
+  "saskibaloia", "tenisa", "pilota", "txirrindularitza", "mendizale", "kirolak", "gimnasio", "estadioa",
+  "osasuna", "sendagilea", "erizaina", "ospitalea", "botika", "medikunak", "eritasuna", "mina",
+  "sukarrak", "hotzikara", "tosak", "burukoa", "hortza", "hortzlariak", "zauria", "odola",
+  "hezurra", "muskulu", "larruazala", "ilea", "bekokia", "bekaina", "masailak", "kokotza",
+  "lepoa", "sorbalda", "besoa", "ukondoa", "eskumuturra", "hatza", "atzamarra", "hanka",
+  "belaunak", "orkatilak", "oinak", "sabelak", "bizkarra", "bularra", "birikak", "gibela"
+];
+
+export const esaldiak = [
+  { egilea: 'Bernardo Atxaga', testua: 'Hizkuntza bat galtzea mundu bat galtzea da' },
+  { egilea: 'Gabriel Aresti', testua: 'Euskaldun fededun, baina lehenbizi euskaldun' },
+  { egilea: 'Joseba Sarrionandia', testua: 'Literatura memoriak ihes egiteko modu bat da' },
+  { egilea: 'Kirmen Uribe', testua: 'Idaztea bizimodua da, ez lanbidea' },
+  { egilea: 'Anjel Lertxundi', testua: 'Idazlea irakurle kaltetu bat da' },
+  { egilea: 'Ramon Saizarbitoria', testua: 'Eleberri bat errealitate paraleloa da' },
+  { egilea: 'Arantxa Urretabizkaia', testua: 'Idazteak askatasuna ematen du' },
+  { egilea: 'Mariasun Landa', testua: 'Irakurtzea mundua ulertzeko bidea da' },
+  { egilea: 'Koldo Izagirre', testua: 'Kontatzaileak errealitatea aldatzen du' },
+  { egilea: 'Unai Elorriaga', testua: 'Literatura bizitza ulertzeko tresna da' },
+  { egilea: 'Harkaitz Cano', testua: 'Poesia hitzen musika da' },
+  { egilea: 'Felipe Juaristi', testua: 'Hizkuntzak kultura gordetzen du' },
+  { egilea: 'Karmele Jaio', testua: 'Idaztea pentsamendu prozesua da' },
+  { egilea: 'Itxaro Borda', testua: 'Literatura identitatearen lekukoa da' },
+  { egilea: 'Lourdes Oñederra', testua: 'Poesia sentimenduen argia da' }
+];
